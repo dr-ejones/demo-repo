@@ -10,7 +10,7 @@ took some finagling because I initialized the repository locally first and then 
 
 I was able to merge everything with the following commands:
 
-``` $ git fetch ```\
-``` $ git rebase origin/main ```\
-``` $ git push origin main ```\
+    $ git fetch
+    $ git rebase origin/main
+    $ git push origin main 
 
